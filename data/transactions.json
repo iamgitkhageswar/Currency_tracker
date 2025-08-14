@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1755159908401,
+    "amount": 100,
+    "currency": "USD",
+    "amountInINR": 8750.29,
+    "category": "Food",
+    "description": "Test offline mode",
+    "timestampUTC": "2025-08-14T08:25:08.402Z"
+  },
+  {
+    "id": 1755160130914,
+    "amount": 100,
+    "currency": "USD",
+    "amountInINR": 8750.29,
+    "category": "Food",
+    "description": "Test offline mode",
+    "timestampUTC": "2025-08-14T08:28:50.914Z"
+  },
+  {
+    "id": 1755160995554,
+    "amount": 2000,
+    "currency": "USD",
+    "amountInINR": 175005.8,
+    "category": "Travel",
+    "description": "travel",
+    "timestampUTC": "2025-08-14T08:43:15.555Z"
+  },
+  {
+    "id": 1755161020830,
+    "amount": 2000,
+    "currency": "USD",
+    "amountInINR": 175005.8,
+    "category": "Utilities",
+    "description": "",
+    "timestampUTC": "2025-08-14T08:43:40.830Z"
+  },
+  {
+    "id": 1755161051243,
+    "amount": 100,
+    "currency": "INR",
+    "amountInINR": 100,
+    "category": "Food",
+    "description": "",
+    "timestampUTC": "2025-08-14T08:44:11.243Z"
+  }
+]
